@@ -39,20 +39,6 @@ I'm an **aspiring AI Engineer** focused on **Generative AI, Machine Learning, De
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="38" height="38" />
 </p>
 
----
-
-### Featured Projects
-
-| Project | Focus | My Role | Links |
-| :--- | :--- | :--- | :--- |
-| **NARAE** | Generative AI & Backend | AI Agent (Gemini Function Calling) & Express + PostgreSQL API | [GitHub](https://github.com/MichaelB232/narae) · [Live](https://narae-v1.vercel.app/) |
-| **WindStore** | Generative AI & Backend | Express + Prisma Backend, Midtrans Snap & FastAPI Gemini Agent | [GitHub](https://github.com/MichaelB232/WindStore) |
-| **U.S. Renewable Energy Forecasting** | Machine Learning & DS | End-to-End CRISP-DM, OLS/Ridge/Lasso & Walk-Forward SARIMA | [GitHub](https://github.com/MichaelB232/41_IF-D_KataAnissaBebas) |
-| **Fall Detection System** | Deep Learning & CV | YOLO11n-pose + ByteTrack + 16-frame VideoMAE & FastAPI WS | [GitHub](https://github.com/Rio-prst/fall-human) |
-| **TrashNet CNN** | Deep Learning (From Scratch) | Custom 5-Block PyTorch `nn.Module` CNN (6-Class Classification) | [GitHub](https://github.com/MichaelB232/TrashCNN) |
-| **KerjainYu** | Backend Engineering | Express + TypeScript, PostgreSQL/Knex, Redis, S3/MinIO & Swagger | [GitHub](https://github.com/CodebyCola/KerjainYu) |
-
----
 
 ### GitHub Stats
 
